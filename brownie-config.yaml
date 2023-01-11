@@ -9,7 +9,7 @@ project_structure:
     tests: tests
 
 networks:
-    default: development
+    default: mainnet
     development:
         gas_limit: max
         gas_buffer: 1
@@ -66,3 +66,4 @@ hypothesis:
 autofetch_sources: false
 dependencies: null
 dev_deployment_artifacts: false
+dotenv: .env
