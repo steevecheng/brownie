@@ -2,7 +2,7 @@ pragma solidity ^0.6.0;
 
 // SPDX-License-Identifier: MIT
 
-interface LPStaking {
+interface ILPStaking {
 
     function poolLength() external view returns (uint256);
 
