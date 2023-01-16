@@ -26,7 +26,7 @@ And then you can test contracts with commmand.
 
 ### Run project with scripts.
 - $ `brownie compile` <br />
-- $ `brownie run local` <br />
+- $ `brownie run filename` &nbsp;&nbsp;&nbsp;&nbsp; // Here `filename` can be the name of a file without extension in the scripts directory in the root directory.<br /> 
 
 ### Run project with scripts in debug mode
 - Go to scripts directory and select a file you want to test.<br />
