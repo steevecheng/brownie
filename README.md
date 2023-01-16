@@ -1,5 +1,5 @@
 # Quick Start Brownie
-## 1. Install and run venv
+## 1. Install and active venv
 - $ `py -m venv .venv` <br /> 
 - $ `.venv\scripts\activate`
 
@@ -22,7 +22,7 @@ And then you can test contracts with commmand.
 ### Run project with scripts in local.
 (1) Change default network. <br />
 &nbsp;&nbsp;&nbsp; - got to brownie-config.yaml in the root directory <br/>
-&nbsp;&nbsp;&nbsp; - and change value of `networks.default` to `development`
+&nbsp;&nbsp;&nbsp; - and change value of `networks/default` to `development`
 (2) Run Project <br />
 - $ `brownie compile` <br />
 - $ `brownie run local` <br />
