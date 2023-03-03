@@ -1,4 +1,4 @@
-# MOZAIC CONTRACT
+# Brownie HELP - PERFECT
 ## 1. Install and active venv
 - $ `py -m venv .venv` <br /> 
 - $ `.venv\scripts\activate`
